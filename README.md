@@ -23,3 +23,5 @@ C:\Users\TerungwaUbi\Downloads\healthcare_dataset_10000_rows.csv
 • Use of DAX for calculated fields    
 
 ##Dashboards
+<img width="1425" height="797" alt="image" src="https://github.com/user-attachments/assets/8d22d542-bbd4-4e23-914d-78aedda1096d" />
+
