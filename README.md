@@ -7,5 +7,5 @@ To analyse the health care performances by difference Diagnosis, Revenue generat
 
 ##Data set used
 
-C:\Users\TerungwaUbi\Downloads\healthcare_dataset_10000_rows.csv
+C:\Users\TerungwaUbi\Downloads\healthcare_dataset_10000_rows.csv     
 "C:\Users\TerungwaUbi\Downloads\Health Care performance Dashboard.pbix"
