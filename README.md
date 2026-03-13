@@ -36,3 +36,13 @@ Data preparation:
  Slicers for filtering  
  Cards for KPIs   
 
+##Conclussion:  
+This analysis empowered stakeholders to:  
+ Identify high-performing health care and underperformers  
+ Make data-driven decision   
+ Predict future outcomes and prepare for it  
+ Communicate insights clearly using dynamic visuals and narrative  
+##Contact:
+📩ubigeoffrey@gmail.com 
+ 
+
