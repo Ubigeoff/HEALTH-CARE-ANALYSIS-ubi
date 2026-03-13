@@ -26,3 +26,13 @@ C:\Users\TerungwaUbi\Downloads\healthcare_dataset_10000_rows.csv
 Health care perfomance
 <img width="1425" height="797" alt="image" src="https://github.com/user-attachments/assets/8d22d542-bbd4-4e23-914d-78aedda1096d" />
 
+##Procedures   
+Data preparation:  
+• Raw table were use
+
+##Visual Design  
+ Bar/column charts   
+ Line chart for trends  
+ Slicers for filtering  
+ Cards for KPIs   
+
